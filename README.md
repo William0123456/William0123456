@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @William0123456
-- 👀 I’m interested in robotics and radio code
+- 👀 I’m interested in robotics
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on a gift for my grandma(usb radio with earphone)
 - 📫 How to reach me kapahikritin@gmail.com 
 
 <!---
